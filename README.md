@@ -2,13 +2,13 @@
 Trying to get the knack of this
 Yes, let's limit liability with a license
 
-I’ve collaborated with executive producers and comedians on their television shows, 
+I’ve collaborated with executive producers and comedians __on__ __their__ television shows, 
 
-writer/directors on their animated features, 
+writer/directors __on__ their animated features, 
 
-novelists on their book series, and even 
+novelists __on__ their book series, and even 
 
-playwrights on their plays.
+playwrights __on__ their plays.
 
 
 end attempt to edit.
